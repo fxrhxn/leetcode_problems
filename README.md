@@ -1,5 +1,5 @@
 # Leetcode problems.
 
-## 50 easy questions.
+## [50 Easy Questions](https://leetcode.com/explore/interview/card/top-interview-questions-medium)
 
-## 50 medium questions.
+## [50 Medium Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy)
